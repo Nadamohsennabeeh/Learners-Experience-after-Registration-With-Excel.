@@ -32,4 +32,13 @@ The goal is to answer key business questions and provide insights that support b
 
 ## Future Work
 - Extend the analysis using Tableau (Part 2)  
-- Add more advanced metrics and user segmentation  
+- Add more advanced metrics and user segmentation
+  
+
+
+
+
+
+
+
+
