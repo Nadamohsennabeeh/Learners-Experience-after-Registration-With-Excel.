@@ -33,7 +33,10 @@ The goal is to answer key business questions and provide insights that support b
 ## Future Work
 - Extend the analysis using Tableau (Part 2)  
 - Add more advanced metrics and user segmentation
-  
+<img width="1366" height="768" alt="WhatsApp Image 2026-07-08 at 9 44 00 AM" src="https://github.com/user-attachments/assets/4e9c2865-0252-4854-ac85-6cc3666415c9" />
+<img width="1366" height="768" alt="WhatsApp Image 2026-07-08 at 9 44 50 AM" src="https://github.com/user-attachments/assets/629a8eb6-8874-4dd5-8b62-ee9f63f4ec07" />
+
+
 
 
 
